@@ -4,13 +4,6 @@ from variables import *
 from functions import *
 from spacing_calculator import spacing_calc
 
-"""Main script of the calculator for electrical circuits and grounding."""
-#TODO: Main stuff
-# 1. create variables to hold the tables of data and constants
-# 2. create functions to calculate the formulas
-# 3. create object hierarchy for each elemenet of the circuits
-# 4. create logic to relate each element to each other and make the floor plan
-# 5. devise output logic 
 
 # Script settings
 logging.basicConfig(level=logging.ERROR, format="%(message)s")

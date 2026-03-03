@@ -1,9 +1,4 @@
-1. copiaza tabelele si formulele din manual
-2. manual calculeaza priza de impamantare de 5 ori
-3. creeaza functii in python care pot automatiza calculul
-4. creeaza clase pentru obiectele dintr-un desen tehnic electric cu variabilele relevante (R, V, Amp, W, temp, material, lungime, sectiune/grosime, umezeala, izolatie, etc) si metode care urmeaza formulele
-5. asambleaza aplicatia sa fie portabila
-6. dezvolto intr-un "generator de plan tehnic"
+
 
 
 Notite:
