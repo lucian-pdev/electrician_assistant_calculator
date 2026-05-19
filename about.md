@@ -1,6 +1,3 @@
-
-
-
 Notite:
 distanta intre electrozi = lungime electrod sau de 2 ori lung electrodului
 
